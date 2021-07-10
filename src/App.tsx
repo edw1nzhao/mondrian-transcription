@@ -1,5 +1,5 @@
 import React from 'react';
-import Sketch from "./Sketch"
+import Sketch from "./components/Sketch/sketch"
 import './App.css';
 // import {
 //   BrowserRouter as Router,
